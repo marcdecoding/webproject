@@ -1,0 +1,56 @@
+[
+    {
+        "image": "./assets/AD.jpg",
+        "appearances": "15",
+        "position": "Left Back",
+        "name": "Alfie Doughty"
+    },
+    {
+        "image": "./assets/CM.jpg",
+        "appearances": "15",
+        "position": "Left Back",
+        "name": "Carlton Morris"
+    },
+    {
+        "image": "./assets/EA.jpg",
+        "appearances": "15",
+        "position": "Left Back",
+        "name": "Elijah Adebayo"
+    },
+    {
+        "image": "./assets/GO.jpg",
+        "appearances": "5",
+        "position": "Centre Back",
+        "name": "Gabriel Osho"
+    },
+    {
+        "image": "./assets/IK.jpg",
+        "appearances": "14",
+        "position": "Right Back",
+        "name": "Issa Kabore"
+    },
+    {
+        "image": "./assets/PM.jpg",
+        "appearances": "15",
+        "position": "Midfielder",
+        "name": "Pelly Ruddock Mpanzu"
+    },
+    {
+        "image": "./assets/TC.jpg",
+        "appearances": "13",
+        "position": "Midfielder",
+        "name": "Tahith Chong"
+    },
+    {
+        "image": "./assets/TK.jpg",
+        "appearances": "14",
+        "position": "Goal Keeper",
+        "name": "Thomas Kaminshi"
+    },
+    {
+        "image": "./assets/TL.jpg",
+        "appearances": "14",
+        "position": "Centre Back",
+        "name": "Tom Lockyer"
+    }
+]

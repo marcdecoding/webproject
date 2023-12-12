@@ -1,0 +1,142 @@
+[
+    {
+        "title": "Super Mario 64",
+        "description": "Join Mario in his 3D adventure to rescue Princess Peach from Bowser's clutches.",
+        "price": 19.99
+    },
+    {
+        "title": "The Legend of Zelda: Ocarina of Time",
+        "description": "Embark on a legendary quest as Link to stop Ganondorf and save Hyrule.",
+        "price": 24.99
+    },
+    {
+        "title": "Final Fantasy VII",
+        "description": "Experience the epic journey of Cloud Strife and his allies to stop Sephiroth and save the planet.",
+        "price": 29.99
+    },
+    {
+        "title": "Metal Gear Solid",
+        "description": "Infiltrate Shadow Moses Island and thwart the plans of the rogue terrorist group, FOXHOUND.",
+        "price": 17.99
+    },
+    {
+        "title": "Resident Evil 2",
+        "description": "Survive a zombie apocalypse in Raccoon City as Leon Kennedy and Claire Redfield.",
+        "price": 14.99
+    },
+    {
+        "title": "Doom",
+        "description": "Blast your way through hordes of demons on Mars in this iconic first-person shooter.",
+        "price": 9.99
+    },
+    {
+        "title": "Diablo",
+        "description": "Descend into the depths of the Tristram Cathedral and battle the Lord of Terror himself.",
+        "price": 12.99
+    },
+    {
+        "title": "Street Fighter II",
+        "description": "Choose your fighter and engage in fierce one-on-one battles in the ultimate martial arts tournament.",
+        "price": 7.99
+    },
+    {
+        "title": "Sonic the Hedgehog",
+        "description": "Join Sonic on his high-speed adventures to stop Dr. Robotnik and save the animals.",
+        "price": 6.99
+    },
+    {
+        "title": "GoldenEye 007",
+        "description": "Become James Bond and thwart the plans of the evil organization, Janus.",
+        "price": 16.99
+    },
+    {
+        "title": "Mega Man X",
+        "description": "Take control of Mega Man X and battle against the Mavericks to protect humanity.",
+        "price": 11.99
+    },
+    {
+        "title": "Star Fox 64",
+        "description": "Pilot the Arwing and defend the Lylat System from the evil Andross and his forces.",
+        "price": 18.99
+    },
+    {
+        "title": "Chrono Trigger",
+        "description": "Embark on an epic time-traveling adventure to save the world from a catastrophic future.",
+        "price": 22.99
+    },
+    {
+        "title": "Castlevania: Symphony of the Night",
+        "description": "Venture into Dracula's castle and battle supernatural foes as Alucard.",
+        "price": 15.99
+    },
+    {
+        "title": "Donkey Kong Country",
+        "description": "Team up with Donkey Kong and Diddy Kong to recover their stolen banana hoard.",
+        "price": 8.99
+    },
+    {
+        "title": "StarCraft",
+        "description": "Command the forces of the Terran, Zerg, or Protoss in a galactic battle for supremacy.",
+        "price": 19.99
+    },
+    {
+        "title": "Tekken 3",
+        "description": "Enter the King of Iron Fist Tournament and prove your martial arts skills against formidable opponents.",
+        "price": 13.99
+    },
+    {
+        "title": "Quake",
+        "description": "Navigate through dark and treacherous levels, facing off against Lovecraftian horrors.",
+        "price": 10.99
+    },
+    {
+        "title": "Secret of Mana",
+        "description": "Embark on a quest to restore the power of Mana and thwart the plans of the evil empire.",
+        "price": 14.99
+    },
+    {
+        "title": "Command & Conquer",
+        "description": "Lead your chosen faction in a strategic battle for global domination.",
+        "price": 12.99
+    },
+    {
+        "title": "Pokémon Red and Blue",
+        "description": "Catch, train, and battle Pokémon as you strive to become the Pokémon Champion.",
+        "price": 16.99
+    },
+    {
+        "title": "Half-Life",
+        "description": "Uncover the mysteries of the Black Mesa Research Facility and battle alien creatures.",
+        "price": 15.99
+    },
+    {
+        "title": "EarthBound",
+        "description": "Join Ness and his friends on a quirky, humorous quest to save the world from an alien invasion.",
+        "price": 18.99
+    },
+    {
+        "title": "Wipeout",
+        "description": "Race futuristic anti-gravity ships through high-speed tracks in a battle for victory.",
+        "price": 9.99
+    },
+    {
+        "title": "Tomb Raider",
+        "description": "Explore ancient tombs and solve puzzles as the fearless archaeologist, Lara Croft.",
+        "price": 12.99
+    },
+    {
+        "title": "Final Fantasy Tactics",
+        "description": "Lead a band of warriors in a strategic battle for control of the kingdom of Ivalice.",
+        "price": 21.99
+    },
+    {
+        "title": "Mortal Kombat II",
+        "description": "Test your might in brutal one-on-one battles against iconic fighters.",
+        "price": 7.99
+    },
+    {
+        "title": "Commander Keen",
+        "description": "Join Billy Blaze, the eight-year-old genius, on intergalactic adventures to save the universe.",
+        "price": 6.99
+    }
+]
